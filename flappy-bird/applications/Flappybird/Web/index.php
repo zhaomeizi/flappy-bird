@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"/>
-<title>flappy-bird </title>
+<title>hello world </title>
 <meta name="description" content="">
 <meta name="keywords" content="flappy bird 多人在线版 workerman">
 <link rel="stylesheet" href="/css/bootstrap.min.css">
