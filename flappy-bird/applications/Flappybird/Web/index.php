@@ -23,7 +23,6 @@
 /*760*90，创建于2014-6-4*/
 var cpro_id = "u1576789";
 </script>
-<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script>
 
         </div>
     </div>
