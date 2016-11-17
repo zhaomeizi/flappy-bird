@@ -426,7 +426,8 @@
 	oa = new Image,
 	s = [];
 	console.log(f.location.origin);
-	var A = ["ws://"+document.domain+":8283"],
+	//var A = ["ws://"+document.domain+":8283"],
+	var A  =  ["ws://birdchat"],   //连接websocket
 	w = null,
 	z = !1;
 	setInterval(function() {
